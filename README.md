@@ -1,5 +1,4 @@
-# CARET: Contract-Aware Repository Editing and Tooling for
-Governed Agentic Code Generation
+# CARET: Contract-Aware Repository Editing and Tooling for Governed Agentic Code Generation
 
 Compact benchmark for evaluating Spec-Driven Development (SDD) behavior in coding agents.
 
